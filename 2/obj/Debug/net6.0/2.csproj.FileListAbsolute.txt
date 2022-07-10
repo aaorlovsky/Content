@@ -1,0 +1,15 @@
+C:\Projects\CSharpStudy\Ozon\Content\2\bin\Debug\net6.0\2.exe
+C:\Projects\CSharpStudy\Ozon\Content\2\bin\Debug\net6.0\2.deps.json
+C:\Projects\CSharpStudy\Ozon\Content\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\Projects\CSharpStudy\Ozon\Content\2\bin\Debug\net6.0\2.dll
+C:\Projects\CSharpStudy\Ozon\Content\2\bin\Debug\net6.0\2.pdb
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.dll
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\refint\2.dll
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.pdb
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\Projects\CSharpStudy\Ozon\Content\2\obj\Debug\net6.0\ref\2.dll
